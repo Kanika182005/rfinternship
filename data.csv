@@ -1,0 +1,6 @@
+dataSet :
+product ,quantity, price
+A, 2, 100
+B, 1, 200
+C, 3, 100
+D, 5, 50 
