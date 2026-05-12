@@ -1,23 +1,23 @@
-with open("students.csv", "r") as file:
-    lines = file.readlines()
+import csv
+with open("data.csv", "r") as file:
+    reader = csv.reader(file)
+    for row in reader:
+        print(row)
 
-headers = lines[0].strip().split(",")
 
-students = []
+# list of dictionaries
+data = [
+    {"name" :"Amit", "age" : 20, "marks": 85 },
+    {"name": "Riya", "age" : 21, "marks":90 }
 
-for line in lines[1:]:
-    values = line.strip().split(",")
+]
+print (data)
 
-    # Missing values handle
-    age = int(values[1]) if values[1] != "" else 0
-    marks = int(values[2]) if values[2] != "" else 0
+# calculate average value and hadle missing values
+total =0
 
-    student = {
-        "NAME": values[0],
-        "AGE": age,
-        "MARKS": marks
-    }
-
-    students.append(student)
-
-print(students)
+for i in data:
+    if "marks" in i and i["marks"] not in [None, ""]:
+        total= total+ i["marks"]
+Avg = total/len(data)
+print ("Average marks is:", Avg)
