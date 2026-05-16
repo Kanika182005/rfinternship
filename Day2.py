@@ -4,12 +4,10 @@ grades = []
  # calculate average
 Avg = sum(Marks)/ len(Marks)
 print("Average of marks is:",Avg)
-
 #calculate highest and lowest
 Max = max(Marks)
 Min = min(Marks)
 print ("Highest and Lowest marks are:", Max, Min)
-
 #count how many students scored above average
 for i in Marks:
     if i > Avg:
