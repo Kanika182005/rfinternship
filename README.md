@@ -27,5 +27,7 @@ I'm currently doing my internship from RFT<br>I'm learning python skills<br>
 | PROJECT 8  | EMPLOYEE SALARY INSIGHTS       |
 | PROJECT 9  | DATA FILTERING TOOL            |
 | PROJECT 10 | PYTHON LOG ANALYZER            |
+| PROJECT 11 | SALES TREND VISUALIZATION      |
+| PROJECT 12 | STUDENT PERFORMANCE DASHBOARD  |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
