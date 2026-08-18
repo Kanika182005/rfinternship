@@ -37,4 +37,5 @@ I'm currently doing my internship from RFT<br>I'm learning python skills<br>
 | PROJECT 18 |MOVIE DATASET ANALYSIS          |
 | PROJECT 19 |STOCK/TIME-SERIES ANALYSIS      |
 | PROJECT 20 |OPEN DATASET CAPSTONE PROJECT   |
+| PROJECT 21 |FUNCTIONS-INTERMEDIATE          |
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
