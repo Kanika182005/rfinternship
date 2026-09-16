@@ -1,0 +1,31 @@
+Employee_ID,Employee_Name,Department,Performance,Attendance,Attendance_Status,Performance_Category
+E001,Aarav Sharma,IT,92,96,Good,Excellent
+E002,Priya Verma,HR,78,88,Good,Good
+E003,Rohan Mehta,Finance,85,91,Good,Good
+E004,Neha Gupta,Marketing,73,72,Below 75%,Average
+E005,Simran Kaur,IT,95,98,Good,Excellent
+E006,Aditya Singh,Sales,81,84,Good,Good
+E007,Ananya Gupta,HR,89,94,Good,Good
+E008,Rahul Kumar,Finance,76,79,Good,Good
+E009,Kavya Sharma,Marketing,91,97,Good,Excellent
+E010,Arjun Verma,IT,88,90,Good,Good
+E011,Mehak Jain,Sales,69,68,Below 75%,Average
+E012,Varun Gupta,Finance,93,95,Good,Excellent
+E013,Ishita Sharma,HR,82,86,Good,Good
+E014,Manav Singh,Marketing,87,92,Good,Good
+E015,Riya Kapoor,IT,97,99,Good,Excellent
+E016,Karan Mehta,Sales,74,73,Below 75%,Average
+E017,Sakshi Verma,Finance,90,93,Good,Excellent
+E018,Dev Kumar,HR,71,76,Good,Average
+E019,Muskan Gupta,Marketing,84,89,Good,Good
+E020,Yash Sharma,IT,79,82,Good,Good
+E021,Tanya Singh,Sales,94,96,Good,Excellent
+E022,Harsh Mehta,Finance,68,71,Below 75%,Average
+E023,Nidhi Kapoor,HR,86,91,Good,Good
+E024,Akash Verma,Marketing,77,78,Good,Good
+E025,Pooja Sharma,IT,91,95,Good,Excellent
+E026,Mohit Kumar,Sales,83,87,Good,Good
+E027,Shreya Gupta,Finance,96,98,Good,Excellent
+E028,Ankit Singh,HR,75,74,Below 75%,Good
+E029,Divya Mehta,Marketing,89,93,Good,Good
+E030,Manisha Verma,IT,93,97,Good,Excellent

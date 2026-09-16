@@ -1,0 +1,9 @@
+Name: Rahul Verma
+
+Skills: HTML, CSS, JavaScript, React, Git, Python
+
+Experience: 1 year internship as Frontend Developer.
+
+Education: B.Tech in Computer Science Engineering.
+
+Projects: E-commerce Website, Portfolio Website, Todo Application.

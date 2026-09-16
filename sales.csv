@@ -1,0 +1,46 @@
+Date,Customer,Product,Category,Sales,Revenue
+2026-01-03,Aarav Sharma,Laptop,Electronics,55000,55000
+2026-01-05,Priya Verma,Smartphone,Electronics,32000,32000
+2026-01-08,Rohan Mehta,Office Chair,Furniture,8500,8500
+2026-01-12,Neha Gupta,Headphones,Electronics,4500,4500
+2026-01-15,Aarav Sharma,Monitor,Electronics,18000,18000
+2026-01-18,Simran Kaur,Desk,Furniture,12000,12000
+2026-01-22,Rohan Mehta,Laptop,Electronics,60000,60000
+2026-01-25,Priya Verma,Keyboard,Accessories,2500,2500
+2026-02-02,Neha Gupta,Smartphone,Electronics,28000,28000
+2026-02-05,Aarav Sharma,Office Chair,Furniture,9000,9000
+2026-02-09,Simran Kaur,Headphones,Electronics,5000,5000
+2026-02-13,Rohan Mehta,Monitor,Electronics,20000,20000
+2026-02-17,Priya Verma,Laptop,Electronics,52000,52000
+2026-02-21,Neha Gupta,Desk,Furniture,11000,11000
+2026-02-25,Aarav Sharma,Smartphone,Electronics,35000,35000
+2026-03-02,Simran Kaur,Keyboard,Accessories,2800,2800
+2026-03-06,Rohan Mehta,Laptop,Electronics,58000,58000
+2026-03-10,Priya Verma,Monitor,Electronics,19000,19000
+2026-03-14,Neha Gupta,Office Chair,Furniture,9500,9500
+2026-03-18,Aarav Sharma,Headphones,Electronics,4800,4800
+2026-03-22,Simran Kaur,Smartphone,Electronics,31000,31000
+2026-03-26,Rohan Mehta,Desk,Furniture,13500,13500
+2026-04-01,Priya Verma,Laptop,Electronics,54000,54000
+2026-04-05,Neha Gupta,Keyboard,Accessories,2600,2600
+2026-04-09,Aarav Sharma,Monitor,Electronics,21000,21000
+2026-04-13,Simran Kaur,Office Chair,Furniture,8800,8800
+2026-04-17,Rohan Mehta,Smartphone,Electronics,33000,33000
+2026-04-21,Priya Verma,Headphones,Electronics,5200,5200
+2026-04-25,Neha Gupta,Laptop,Electronics,51000,51000
+2026-05-02,Aarav Sharma,Desk,Furniture,12500,12500
+2026-05-06,Simran Kaur,Monitor,Electronics,18500,18500
+2026-05-10,Rohan Mehta,Keyboard,Accessories,3000,3000
+2026-05-14,Priya Verma,Smartphone,Electronics,34000,34000
+2026-05-18,Neha Gupta,Office Chair,Furniture,9200,9200
+2026-05-22,Aarav Sharma,Laptop,Electronics,57000,57000
+2026-05-26,Simran Kaur,Headphones,Electronics,4700,4700
+2026-06-02,Rohan Mehta,Monitor,Electronics,19500,19500
+2026-06-06,Priya Verma,Desk,Furniture,12800,12800
+2026-06-10,Neha Gupta,Smartphone,Electronics,29000,29000
+2026-06-14,Aarav Sharma,Keyboard,Accessories,2700,2700
+2026-06-18,Simran Kaur,Laptop,Electronics,56000,56000
+2026-06-22,Rohan Mehta,Office Chair,Furniture,8700,8700
+2026-06-26,Priya Verma,Headphones,Electronics,5100,5100
+2026-01-18,Simran Kaur,Desk,Furniture,12000,12000
+2026-06-28,Neha Gupta,Laptop,Electronics,,

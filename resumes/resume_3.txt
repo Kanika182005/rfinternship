@@ -1,0 +1,9 @@
+Name: Priya Gupta
+
+Skills: Python, Data Science, Pandas, NumPy, SQL, Statistics, Git
+
+Experience: 6 months internship in Data Analytics.
+
+Education: B.Tech in Artificial Intelligence and Machine Learning.
+
+Projects: Sales Analysis, Customer Segmentation, Data Visualization.

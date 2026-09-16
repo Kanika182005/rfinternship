@@ -1,0 +1,9 @@
+Name: Arjun Singh
+
+Skills: Python, Machine Learning, NumPy, SQL, Git, Statistics, TensorFlow
+
+Experience: 2 years experience working on Machine Learning projects.
+
+Education: B.Tech in Artificial Intelligence.
+
+Projects: Image Classification, Fraud Detection, Recommendation System.

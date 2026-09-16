@@ -1,0 +1,41 @@
+Post_ID,DateTime,User,Post_Text,Likes,Comments,Shares,Category
+P001,2026-08-01 09:15,Ananya,AI is changing the future of work! #AI #Technology,125,18,10,Technology
+P002,2026-08-01 18:30,Rahul,Great cricket match today! #Cricket #Sports,210,35,22,Sports
+P003,2026-08-01 12:10,Priya,Healthy food makes a healthy life. #Health #Fitness,95,14,8,Health
+P004,2026-08-01 20:45,Arjun,Amazing new web development tools! #WebDev #Coding,180,27,15,Technology
+P005,2026-08-02 10:20,Ananya,Learning Python is so much fun! #Python #Coding,240,32,18,Education
+P006,2026-08-02 19:10,Rahul,What a wonderful football game! #Football #Sports,310,48,30,Sports
+P007,2026-08-02 14:35,Priya,Feeling happy and motivated today. #Motivation #Life,155,22,12,Lifestyle
+P008,2026-08-02 21:05,Arjun,AI projects are getting more powerful. #AI #MachineLearning,275,41,25,Technology
+P009,2026-08-03 08:50,Neha,Morning workout completed! #Fitness #Health,120,16,7,Health
+P010,2026-08-03 18:55,Vikram,The team played brilliantly! #Cricket #Sports,350,55,34,Sports
+P011,2026-08-03 13:25,Ananya,New programming course started today. #Coding #Python,190,29,14,Education
+P012,2026-08-03 20:15,Rahul,Technology makes everyday life easier. #Technology #AI,225,31,20,Technology
+P013,2026-08-04 11:40,Priya,Delicious healthy breakfast! #Health #Food,130,19,9,Health
+P014,2026-08-04 19:45,Arjun,Champions never give up! #Motivation #Sports,260,38,24,Lifestyle
+P015,2026-08-04 16:10,Neha,Exploring data science with Python. #Python #DataScience,205,34,17,Education
+P016,2026-08-04 21:20,Vikram,The latest AI trends are exciting! #AI #Technology,390,62,40,Technology
+P017,2026-08-05 09:30,Ananya,Start your day with positive thoughts. #Motivation #Life,175,25,13,Lifestyle
+P018,2026-08-05 18:20,Rahul,Incredible basketball performance! #Basketball #Sports,285,44,28,Sports
+P019,2026-08-05 14:05,Priya,Regular exercise improves energy. #Fitness #Health,145,21,10,Health
+P020,2026-08-05 20:50,Arjun,Building my first React project. #React #WebDev,230,36,19,Technology
+P021,2026-08-06 10:45,Neha,Python practice makes coding easier. #Python #Coding,215,33,16,Education
+P022,2026-08-06 19:30,Vikram,Best match of the season! #Cricket #Sports,420,70,45,Sports
+P023,2026-08-06 15:20,Ananya,Learning something new every day. #Learning #Education,160,23,11,Education
+P024,2026-08-06 21:10,Rahul,Machine learning is transforming industries. #ML #AI,375,58,38,Technology
+P025,2026-08-07 08:40,Priya,Healthy habits create a better lifestyle. #Health #Fitness,185,28,13,Health
+P026,2026-08-07 18:40,Arjun,Football fans are incredible! #Football #Sports,330,52,32,Sports
+P027,2026-08-07 13:50,Neha,Coding challenges improve problem solving. #Coding #Python,250,39,21,Education
+P028,2026-08-07 20:30,Vikram,AI innovation is moving very fast. #AI #Innovation,405,65,42,Technology
+P029,2026-08-08 09:05,Ananya,Stay positive and keep learning. #Motivation #Learning,195,30,15,Lifestyle
+P030,2026-08-08 19:05,Rahul,Another fantastic cricket victory! #Cricket #Sports,450,76,50,Sports
+P031,2026-08-08 14:25,Priya,Trying a new healthy recipe today. #Food #Health,155,24,11,Health
+P032,2026-08-08 21:25,Arjun,React and web development are exciting! #React #WebDev,290,45,26,Technology
+P033,2026-08-09 10:10,Neha,Python is one of my favorite languages. #Python #Coding,275,43,23,Education
+P034,2026-08-09 18:50,Vikram,Sports teach teamwork and discipline. #Sports #Motivation,315,50,31,Sports
+P035,2026-08-09 12:55,Ananya,Great progress on my coding project! #Coding #Learning,220,35,18,Education
+P036,2026-08-09 20:40,Rahul,AI can solve many real-world problems. #AI #Technology,410,68,44,Technology
+P037,2026-08-10 08:55,Priya,Morning yoga makes me feel refreshed. #Yoga #Fitness,140,20,9,Health
+P038,2026-08-10 19:25,Arjun,What an exciting final! #Cricket #Sports,465,82,55,Sports
+P039,2026-08-10 15:35,Neha,Data science opens many career opportunities. #DataScience #Python,260,40,20,Education
+P040,2026-08-10 21:00,Vikram,Technology and innovation go hand in hand. #Technology #Innovation,385,60,39,Technology

@@ -1,0 +1,23 @@
+Transaction_ID,Date,Account_ID,Payment_Method,Category,Amount,Risk_Score,Risk_Level
+T006,2026-07-02,ACC106,Bank Transfer,Business,1322,40,Medium
+T007,2026-07-03,ACC107,UPI,Investment,1459,40,Medium
+T014,2026-07-05,ACC104,Card,Business,2418,40,Medium
+T015,2026-07-05,ACC105,Bank Transfer,Investment,2555,40,Medium
+T022,2026-07-08,ACC102,UPI,Business,3514,40,Medium
+T023,2026-07-08,ACC103,Card,Investment,3651,40,Medium
+T030,2026-07-10,ACC110,Bank Transfer,Business,4610,40,Medium
+T031,2026-07-11,ACC101,UPI,Investment,4747,40,Medium
+T038,2026-07-13,ACC108,Card,Business,5706,40,Medium
+T039,2026-07-13,ACC109,Bank Transfer,Investment,5843,40,Medium
+T046,2026-07-16,ACC106,UPI,Business,6802,40,Medium
+T047,2026-07-16,ACC107,Card,Investment,6939,40,Medium
+T054,2026-07-18,ACC104,Bank Transfer,Business,7898,40,Medium
+T055,2026-07-19,ACC105,UPI,Investment,8035,40,Medium
+T062,2026-07-21,ACC102,Card,Business,8994,40,Medium
+T063,2026-07-21,ACC103,Bank Transfer,Investment,9131,40,Medium
+T070,2026-07-24,ACC110,UPI,Business,10090,40,Medium
+T071,2026-07-24,ACC101,Card,Investment,10227,40,Medium
+T078,2026-07-26,ACC108,Bank Transfer,Business,11186,40,Medium
+T079,2026-07-27,ACC109,UPI,Investment,11323,40,Medium
+T086,2026-07-29,ACC106,Card,Business,12282,40,Medium
+T087,2026-07-29,ACC107,Bank Transfer,Investment,12419,40,Medium

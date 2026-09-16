@@ -1,0 +1,9 @@
+Name: Ananya Sharma
+
+Skills: Python, Machine Learning, Pandas, NumPy, SQL, Scikit-learn, Git, Statistics
+
+Experience: 1 year internship in Machine Learning and Data Science.
+
+Education: B.Tech in Computer Science Engineering.
+
+Projects: Customer Churn Prediction, Sales Dashboard, ML Classification.

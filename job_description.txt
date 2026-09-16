@@ -1,0 +1,15 @@
+Job Title: AI/ML Intern
+
+We are looking for an AI/ML Intern with knowledge of Python, Machine Learning,
+Data Science, Pandas, NumPy, SQL, and Scikit-learn.
+
+Required Skills:
+Python, Machine Learning, Data Science, Pandas, NumPy, SQL, Scikit-learn,
+Git, Statistics
+
+Education:
+B.Tech / B.E. in Computer Science, Artificial Intelligence, Data Science
+or related field.
+
+Experience:
+Projects or internship experience in AI/ML or Data Science is preferred.
