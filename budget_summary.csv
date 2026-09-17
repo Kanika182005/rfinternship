@@ -1,0 +1,9 @@
+Category,Budget,Spent,Remaining,Status
+Housing,15000,24000,-9000,Over Budget
+Food,10000,20850,-10850,Over Budget
+Transport,5000,4800,200,Within Budget
+Bills,5000,6400,-1400,Over Budget
+Entertainment,3000,2100,900,Within Budget
+Shopping,5000,6500,-1500,Over Budget
+Education,3000,1500,1500,Within Budget
+Other,2000,0,2000,Within Budget

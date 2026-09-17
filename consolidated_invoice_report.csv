@@ -1,0 +1,13 @@
+Invoice_Number,Customer_Name,Customer_Email,Invoice_Date,Due_Date,Total_Amount,Status,Days_Overdue
+INV001,Rahul Sharma,rahul@gmail.com,2026-08-01,2026-08-15,55000,Overdue,33
+INV002,Priya Singh,priya@gmail.com,2026-08-05,2026-08-20,1600,Overdue,28
+INV003,Ananya Gupta,ananya@gmail.com,2026-08-10,2026-08-25,1500,Overdue,23
+INV004,Arjun Kumar,arjun@gmail.com,2026-08-12,2026-08-27,12000,Overdue,21
+INV005,Neha Verma,neha@gmail.com,2026-08-15,2026-08-30,5000,Overdue,18
+INV006,Vikram Singh,vikram@gmail.com,2026-08-18,2026-09-02,3500,Overdue,15
+INV007,Karan Mehta,karan@gmail.com,2026-08-20,2026-09-05,15000,Overdue,12
+INV008,Simran Kaur,simran@gmail.com,2026-08-22,2026-09-07,1500,Overdue,10
+INV009,Riya Sharma,riya@gmail.com,2026-08-25,2026-09-10,6500,Overdue,7
+INV010,Aman Gupta,aman@gmail.com,2026-08-28,2026-09-12,22000,Overdue,5
+INV011,Mehak Jain,mehak@gmail.com,2026-09-01,2026-09-15,3000,Overdue,2
+INV012,Rohit Kumar,rohit@gmail.com,2026-09-03,2026-09-17,24000,Pending,0

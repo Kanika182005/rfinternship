@@ -1,0 +1,31 @@
+Date,Description,Amount,Payment_Mode,Category
+2026-08-01,Monthly Rent,12000,UPI,Housing
+2026-08-02,Grocery Shopping,3500,Card,Food
+2026-08-03,Electricity Bill,1800,UPI,Bills
+2026-08-04,Uber Ride,450,UPI,Transport
+2026-08-05,Restaurant Dinner,1200,Card,Food
+2026-08-06,Online Shopping,2200,Card,Shopping
+2026-08-07,Movie Tickets,600,Cash,Entertainment
+2026-08-08,Mobile Recharge,500,UPI,Bills
+2026-08-09,Grocery Shopping,2800,Card,Food
+2026-08-10,Coffee,300,Cash,Food
+2026-08-11,Electricity Bill,1700,UPI,Bills
+2026-08-12,Uber Ride,550,UPI,Transport
+2026-08-13,Restaurant Lunch,900,Card,Food
+2026-08-14,Online Course,1500,Card,Education
+2026-08-15,Clothes Shopping,2500,Card,Shopping
+2026-08-16,Monthly Rent,12000,UPI,Housing
+2026-08-17,Grocery Shopping,3200,Card,Food
+2026-08-18,Petrol,1800,Cash,Transport
+2026-08-19,Movie Tickets,700,Card,Entertainment
+2026-08-20,Restaurant Dinner,1400,Card,Food
+2026-08-21,Mobile Recharge,500,UPI,Bills
+2026-08-22,Uber Ride,400,UPI,Transport
+2026-08-23,Grocery Shopping,3000,Card,Food
+2026-08-24,Electricity Bill,1900,UPI,Bills
+2026-08-25,Online Shopping,1800,Card,Shopping
+2026-08-26,Coffee,350,Cash,Food
+2026-08-27,Restaurant Dinner,1300,Card,Food
+2026-08-28,Petrol,1600,Cash,Transport
+2026-08-29,Grocery Shopping,2900,Card,Food
+2026-08-30,Entertainment,800,Cash,Entertainment

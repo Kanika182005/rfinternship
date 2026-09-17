@@ -1,0 +1,13 @@
+Invoice_Number,Customer_Name,Customer_Email,Invoice_Date,Due_Date,Item,Quantity,Unit_Price
+INV001,Rahul Sharma,rahul@gmail.com,2026-08-01,2026-08-15,Laptop,1,55000
+INV002,Priya Singh,priya@gmail.com,2026-08-05,2026-08-20,Mouse,2,800
+INV003,Ananya Gupta,ananya@gmail.com,2026-08-10,2026-08-25,Keyboard,1,1500
+INV004,Arjun Kumar,arjun@gmail.com,2026-08-12,2026-08-27,Monitor,1,12000
+INV005,Neha Verma,neha@gmail.com,2026-08-15,2026-08-30,Headphones,2,2500
+INV006,Vikram Singh,vikram@gmail.com,2026-08-18,2026-09-02,Webcam,1,3500
+INV007,Karan Mehta,karan@gmail.com,2026-08-20,2026-09-05,Printer,1,15000
+INV008,Simran Kaur,simran@gmail.com,2026-08-22,2026-09-07,USB Cable,5,300
+INV009,Riya Sharma,riya@gmail.com,2026-08-25,2026-09-10,SSD,1,6500
+INV010,Aman Gupta,aman@gmail.com,2026-08-28,2026-09-12,Tablet,1,22000
+INV011,Mehak Jain,mehak@gmail.com,2026-09-01,2026-09-15,Keyboard,2,1500
+INV012,Rohit Kumar,rohit@gmail.com,2026-09-03,2026-09-17,Monitor,2,12000
